@@ -1,0 +1,21 @@
+Message stats for scenario Haggle3Infocom5-epidemic
+sim_time: 274883.0000
+created: 228
+started: 211667
+relayed: 207495
+aborted: 4172
+dropped: 204886
+removed: 0
+delivered: 129
+delivery_prob: 0.5658
+response_prob: 0.0000
+overhead_ratio: 1607.4884
+delivery_utility: 0.0006
+latency_avg: 27628.9147
+latency_med: 16642.0000
+hopcount_avg: 6.3876
+hopcount_med: 4
+buffertime_avg: 2616.2667
+buffertime_med: 388.0000
+rtt_avg: NaN
+rtt_med: NaN

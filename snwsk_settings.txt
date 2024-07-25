@@ -1,0 +1,4 @@
+Scenario.name = SprayAndWait
+Group.router = SprayAndWaitRouterSk
+SprayAndWaitRouter.nrofCopies = 10
+SprayAndWaitRouter.binaryMode = true
